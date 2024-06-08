@@ -1,6 +1,6 @@
 ﻿namespace old_win_forms_1
 {
-    partial class Form6
+    partial class generalTask6
     {
         /// <summary>
         /// Required designer variable.

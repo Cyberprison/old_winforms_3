@@ -1,6 +1,6 @@
 ﻿namespace old_win_forms_1
 {
-    partial class Form3
+    partial class generalTask3
     {
         /// <summary>
         /// Обязательная переменная конструктора.

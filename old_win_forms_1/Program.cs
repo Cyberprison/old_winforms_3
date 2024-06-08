@@ -17,10 +17,13 @@ namespace old_win_forms_1
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            //Application.Run(new Form3());
-            //Application.Run(new Form4());
-            //Application.Run(new Form5());
-            Application.Run(new Form6());
+            //Application.Run(new generalTask3());
+            //Application.Run(new generalTask4());
+            //Application.Run(new generalTask5());
+            //Application.Run(new generalTask6());
+            //Application.Run(new individualTask1());
+            //Application.Run(new individualTask2());
+            Application.Run(new individualTask3());
         }
     }
 }

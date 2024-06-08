@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace old_win_forms_1
 {
-    public partial class Form6 : Form
+    public partial class generalTask6 : Form
     {
-        public Form6()
+        public generalTask6()
         {
             InitializeComponent();
         }
